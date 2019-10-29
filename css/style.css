@@ -507,11 +507,12 @@ table {
 /* ==========================================================================Hero========================================================================== */
 /*https://i.redd.it/fg991fneuho01.png*/
 .hero {
-  /* background: url("../img/header-bg.jpg") right bottom no-repeat;
-  background: url("https://i.redd.it/fg991fneuho01.png") right bottom no-repeat; */
+  background: url("../img/header.png") right bottom no-repeat;
+  background-opacity: 0.5;
+  /* background: url("https://i.redd.it/fg991fneuho01.png") right bottom no-repeat; */
   /* background-position-x: 30vw; */
   /* background-position-y: -10vw; */
-  background-size: contain;
+  background-size: cover;
   padding: 110px 0 100px 0;
   height: auto;
   background-color: #fbfbfb;
